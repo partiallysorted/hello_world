@@ -1,4 +1,4 @@
-# hello_world
+# rust-hello-world
 
 To verify that cargo is installed.
 
