@@ -2,25 +2,37 @@
 
 To verify that cargo is installed.
 
-    cargo --version
+```
+cargo --version
+```
 
 To create a new project, type:
 
-    cargo new hello_world
+```
+cargo new hello_world
+```
 
 To compile the project, type:
 
-    cargo check
+```
+cargo check
+```
 
 To build the project, type:
 
-    cargo build
+```
+cargo build
+```
 
 To run the project, type:
 
-    cargo run
+```
+cargo run
+```
 
 To build the project for release, type:
 
-    cargo build --release
+```
+cargo build --release
+```
 
